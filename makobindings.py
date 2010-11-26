@@ -1,5 +1,5 @@
-from app.lib.bones import PluginBones
-from app.core import env_
+from chapbucket.core.bones import PluginBones
+from chapbucket import env_
 import uuid
 from copy import copy
 import os
